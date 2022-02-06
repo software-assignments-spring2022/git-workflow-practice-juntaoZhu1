@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Complexity is killing software developers 
+[The article](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html) talks about the increasing in complexity in software development. The author argues that complexity of development tools is increasing difficulties in developing applications as software nowadays are divided into microservices. Moreover, this article also reveals the demand for software developers nowadays as more accidental complexity occurs with the development of technologies which leads to cloud computing and open source software development which the author explains the downsides and proposes that building an internal platform is essential.
